@@ -35,6 +35,10 @@ footer {
   border-top: 1px solid #27162a;
 }
 
+footer a {
+  white-space: nowrap;
+}
+
 blockquote {
   border-left: 0.3rem solid #27162a;
   margin-left: 0;
@@ -185,7 +189,6 @@ code {
   font-size: 86%;
   margin: 0 .2rem;
   padding: .2rem .5rem;
-  white-space: nowrap;
 }
 
 pre {
